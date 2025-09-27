@@ -1,0 +1,5 @@
+/proxy.pac
+  Content-Type: application/x-ns-proxy-autoconfig
+
+/proxy_http.pac
+Content-Type: application/x-ns-proxy-autoconfig
